@@ -1,0 +1,3 @@
+Rainwater Harvesting in Smart Cities
+
+Rainwater harvesting can help smart cities conserve water and manage heavy rainfall. Buildings can collect rainwater from rooftops and direct it through filters into storage tanks. The stored water can be used for gardening, cleaning, toilet flushing, and other non-drinking purposes. Larger systems can also support groundwater recharge by allowing filtered water to enter the soil. Sensors can monitor tank levels, rainfall, and water usage, helping residents manage available resources. During intense rainfall, harvesting systems can reduce pressure on drainage networks and lower the risk of localized flooding. Combining traditional water conservation practices with digital monitoring can improve urban water
